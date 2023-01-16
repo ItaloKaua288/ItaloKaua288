@@ -3,7 +3,7 @@ Desenvolvedor em linguagem Python e com conhecimento em edição de video e imag
 
 - Atualmente estou cursando Sistemas de Informações
 - Atualmente estou atuando como freelancer
-- Meu linkedin: <a href="https://www.linkedin.com/in/%C3%ADtalo-kau%C3%A3-n-diniz-b43450261/"><img align='center' alt='Italo-linkedin' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'>
+- Meu linkedin: <a href="https://www.linkedin.com/in/ítalo-kauã-n-diniz-b43450261"><img align='center' alt='Italo-linkedin' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'>
 
 <div style="display: inline_block"><br>
   <img align='center' alt='Italo-python' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
