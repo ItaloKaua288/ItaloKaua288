@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá meu nome Ítalo Kauã! 👋
+Desenvolvedor em linguagem Python e com conhecimento em edição de video e imagem.
 
+- Atualmente estou cursando Sistemas de Informações
+- Atualmente estou atuando como freelancer
 <!--
 **ItaloKaua288/ItaloKaua288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
