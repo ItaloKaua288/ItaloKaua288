@@ -1,5 +1,5 @@
 <h1 align="center">Olá meu nome é Ítalo Kauã!</h1>
-<h3 align="center">Desenvolvedor em linguagem Python e com conhecimento em edição de vídeo e imagem.</h3>
+<h3 align="center">Desenvolvedor em linguagem Python.</h3>
 
 <h3 align="left">Meu Linkedin:</h3>
 <p align="left">
