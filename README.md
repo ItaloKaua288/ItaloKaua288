@@ -18,5 +18,6 @@
   <a href="https://www.adobe.com/br/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="Italo-aftereffects" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/br/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Italo-premierepro" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Italo-photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Italo-pycharm" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Italo-pycharm" width="40" height="40"/> </a>
+  <a href="https://developer.oracle.com/languages/java.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Italo-java" width="40" height="40"/> </a> 
 </p>
