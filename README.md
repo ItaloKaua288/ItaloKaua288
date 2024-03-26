@@ -1,10 +1,12 @@
 <h1 align="center">Olá meu nome é Ítalo Kauã!</h1>
 <h3 align="center">Desenvolvedor em linguagem Python e Java.</h3>
 
-<h3 style="display:none;color:red;" align="left">Meu Linkedin:</h3>
+/*
+<h3 align="left">Meu Linkedin:</h3>
 <p align="left">
-<a style="display:none;" href="https://www.linkedin.com/in/ítalo-kauã-n-diniz-b43450261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/%c3%adtalo-kau%c3%a3-n-diniz-b43450261" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ítalo-kauã-n-diniz-b43450261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/%c3%adtalo-kau%c3%a3-n-diniz-b43450261" height="30" width="40" /></a>
 </p>
+*/
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
