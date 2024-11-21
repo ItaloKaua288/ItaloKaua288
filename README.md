@@ -1,5 +1,4 @@
-<h1 align="center">Olá meu nome é Ítalo Kauã!</h1>
-<h3 align="center">Desenvolvedor em linguagem Python e Java.</h3>
+<h1 align="center">Ítalo Kauã!</h1>
 
 <!--
 <h3 align="left">Meu Linkedin:</h3>
